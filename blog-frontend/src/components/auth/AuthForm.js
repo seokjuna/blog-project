@@ -59,6 +59,10 @@ const textMap = {
     register: '회원가입'
 };
 
+/**
+ * 에러를 보여 줌
+ */
+
 const AuthForm = ({ type, form, onChange, onSubmit }) => {
     const text = textMap[type];
     return (
@@ -87,7 +91,7 @@ const AuthForm = ({ type, form, onChange, onSubmit }) => {
                         placeholder="비밀번호 확인"
                         type="password"
                         onChange={onChange}
-                        value={form.passwordConfrim}
+                        value={form.passwordConfirm}
                     />
                 )}
                 <ButtonWidthMarginTop cyan fullWidth>
