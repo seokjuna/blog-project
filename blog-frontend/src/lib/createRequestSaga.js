@@ -18,6 +18,7 @@ export default function createRequestSaga(type, request) {
             yield put ({
                 type: SUCCESS,
                 payload: response.data,
+                meta: response,
             });
         } catch (e) {
             yield put ({
@@ -26,6 +27,6 @@ export default function createRequestSaga(type, request) {
                 error: true,
             });
         }
-        yield put(finishLoading(type));
+        yield put(finishLoading(type)); // 로딩 끝
     };
 }
