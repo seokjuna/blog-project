@@ -8,15 +8,15 @@
 <img width="500" alt="register" src="https://user-images.githubusercontent.com/102382351/203049251-3c5a1381-a907-468a-8eee-728db9584413.png">
 
 <br>
-글쓰기
-<img width="500" alt="write" src="https://user-images.githubusercontent.com/102382351/203050079-56677941-86cc-418b-ab3c-b97e650af7b7.png">
-
-<br>
 게시글 리스트
 <img width="500" alt="postlist" src="https://user-images.githubusercontent.com/102382351/203049263-318f54d4-729a-4ef5-8aa1-0d678f508cbb.png">
 
 <br>
-게시글
+글쓰기
+<img width="500" alt="write" src="https://user-images.githubusercontent.com/102382351/203050079-56677941-86cc-418b-ab3c-b97e650af7b7.png">
+
+<br>
+게시글 
 <img width="500" alt="post" src="https://user-images.githubusercontent.com/102382351/203050094-6c4c50dd-aa2e-407e-b7b6-77e1af79c854.png">
 
 <br>
