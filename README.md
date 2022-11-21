@@ -7,7 +7,7 @@
 <br>
 회원가입
 <img width="500" alt="register" src="https://user-images.githubusercontent.com/102382351/203049251-3c5a1381-a907-468a-8eee-728db9584413.png">
-기존 회원 유무, 비밀번호 일치, 아이디・비밀번호 전부 입력 여부 확인
+기존 회원 유무, 비밀번호 일치, 아이디・비밀번호 전부 입력 여부 확인 후 회원가입 완료
 <br>
 <br>
 게시글 리스트
@@ -31,4 +31,4 @@
 <br>
 글 삭제
 <img width="500" alt="remove" src="https://user-images.githubusercontent.com/102382351/203050407-3db910c2-b843-4b02-83bb-e18d297a45f3.png">
-모달창을 통한 글 삭제 가능
+모달창을 통한 글 삭제 
