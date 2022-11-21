@@ -2,10 +2,12 @@
 <br>
 로그인
 <img width="500" alt="login" src="https://user-images.githubusercontent.com/102382351/203049096-1139381c-774e-42ef-8776-f0fc8b95c784.png">
+로그인 후 메인 페이지 이동 / 회원가입 페이지 이동
 
 <br>
 회원가입
 <img width="500" alt="register" src="https://user-images.githubusercontent.com/102382351/203049251-3c5a1381-a907-468a-8eee-728db9584413.png">
+기존 회원 유무, 비밀번호 일치, 아이디・비밀번호 전부 입력 여부 확인
 
 <br>
 게시글 리스트
