@@ -1,4 +1,5 @@
 # blog-project
+<br>
 로그인
 <img width="500" alt="login" src="https://user-images.githubusercontent.com/102382351/203049096-1139381c-774e-42ef-8776-f0fc8b95c784.png">
 
@@ -8,7 +9,7 @@
 
 <br>
 글쓰기
-<img width="709" alt="write" src="https://user-images.githubusercontent.com/102382351/203050079-56677941-86cc-418b-ab3c-b97e650af7b7.png">
+<img width="500" alt="write" src="https://user-images.githubusercontent.com/102382351/203050079-56677941-86cc-418b-ab3c-b97e650af7b7.png">
 
 <br>
 게시글 리스트
