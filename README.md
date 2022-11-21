@@ -3,16 +3,17 @@
 로그인
 <img width="500" alt="login" src="https://user-images.githubusercontent.com/102382351/203049096-1139381c-774e-42ef-8776-f0fc8b95c784.png">
 로그인 후 메인 페이지 이동 / 회원가입 페이지 이동
-
+<br>
 <br>
 회원가입
 <img width="500" alt="register" src="https://user-images.githubusercontent.com/102382351/203049251-3c5a1381-a907-468a-8eee-728db9584413.png">
 기존 회원 유무, 비밀번호 일치, 아이디・비밀번호 전부 입력 여부 확인
-
+<br>
 <br>
 게시글 리스트
 <img width="500" alt="postlist" src="https://user-images.githubusercontent.com/102382351/203049263-318f54d4-729a-4ef5-8aa1-0d678f508cbb.png">
-
+게시글 10개씩 조회 / 제목 클릭시 게시글 페이지 이동 / 아이디, 태그로 게시글 조회 가능
+<br>
 <br>
 글쓰기
 <img width="500" alt="write" src="https://user-images.githubusercontent.com/102382351/203050079-56677941-86cc-418b-ab3c-b97e650af7b7.png">
