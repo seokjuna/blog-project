@@ -17,15 +17,18 @@
 <br>
 글쓰기
 <img width="500" alt="write" src="https://user-images.githubusercontent.com/102382351/203050079-56677941-86cc-418b-ab3c-b97e650af7b7.png">
-
+제목・내용・태그 입력
+<br>
 <br>
 게시글 
 <img width="500" alt="post" src="https://user-images.githubusercontent.com/102382351/203050094-6c4c50dd-aa2e-407e-b7b6-77e1af79c854.png">
-
+게시글 작성자만 글 수정・삭제 가능
+<br>
 <br>
 글 수정
 <img width="500" alt="edit" src="https://user-images.githubusercontent.com/102382351/203050112-02a4b1e1-e49f-47c0-8ea9-04b90ea962ad.png">
-
+<br>
 <br>
 글 삭제
 <img width="500" alt="remove" src="https://user-images.githubusercontent.com/102382351/203050407-3db910c2-b843-4b02-83bb-e18d297a45f3.png">
+모달창을 통한 글 삭제 가능
