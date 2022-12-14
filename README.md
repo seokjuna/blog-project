@@ -1,4 +1,6 @@
 # blog-project
+영화 목록 api를 이용해서 평점 9점 이상의 영화 목록 페이지를 만듬
+
 <br>
 로그인
 <img width="500" alt="login" src="https://user-images.githubusercontent.com/102382351/203049096-1139381c-774e-42ef-8776-f0fc8b95c784.png">
